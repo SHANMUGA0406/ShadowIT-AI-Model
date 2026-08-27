@@ -1,0 +1,12 @@
+{
+    "features": [
+        "unknown_device",
+        "open_port_count",
+        "critical_cve_count",
+        "patch_status",
+        "os_outdated",
+        "sensitive_network_access"
+    ],
+    "target": "risk",
+    "feature_count": 6
+}

@@ -1,0 +1,17 @@
+{
+    "selected_model": "Random Forest",
+    "model_file": "risk_model.pkl",
+    "model_path": "D:\\projects\\shadowIT-AI\\backend\\ai\\models\\risk_model.pkl",
+    "selection_priority": [
+        "critical_recall",
+        "f1",
+        "recall",
+        "accuracy"
+    ],
+    "metrics": {
+        "critical_recall": 1.0,
+        "f1": 1.0,
+        "recall": 1.0,
+        "accuracy": 1.0
+    }
+}
